@@ -24,7 +24,10 @@ const Home = () => {
           </a>
           <div className="small-info">
             <h4>Produits</h4>
-            <p>Venez découvrir notre gamme de vêtements pour toutes</p>
+            <p>
+              Venez découvrir notre gamme de vêtements pour toutes les femmes,
+              peu importe les formes ou les tailles.
+            </p>
           </div>
         </div>
 
@@ -39,7 +42,8 @@ const Home = () => {
             <h4>Fabrication</h4>
             <p>
               Des collections réalisées en France, avec des tissus fabriqués à
-              base de fils issus de la production biologique.
+              base de fils issus de la production biologique. Utilisation de
+              tissus hypoallergeniques et des fibres végétales.
             </p>
           </div>
         </div>
@@ -54,8 +58,9 @@ const Home = () => {
           <div className="small-info">
             <h4>Histoire</h4>
             <p>
-              Tout part d'une envie de positiver et de profiter du savoir-faire
-              français du monde la Mode.
+              Tout part d'une envie de positiver après une épreuve personnelle
+              et de profiter du savoir-faire français du monde la Mode. Créer
+              une marque durable, aussi dans la culture de l'entreprise.
             </p>
           </div>
         </div>
