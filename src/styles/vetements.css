@@ -1,0 +1,83 @@
+.background {
+  background-color: #fee;
+}
+
+.all-vetements {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.title-vetements {
+  background-color: #ca907e;
+  font-size: 60px;
+  padding-left: 0;
+}
+
+.list-vetements {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 20px !important;
+  margin-top: 20px !important;
+  border: 1px solid white;
+  background-color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.item-vetement {
+  padding: 10px;
+}
+
+/* .cases {
+    margin: 10px;
+} */
+
+.item-vetement-image {
+  height: 150px;
+}
+
+.card-img-overlay button i {
+  font-weight: normal;
+}
+
+.btn-light:not(:disabled):not(.disabled).active,
+.btn-light:not(:disabled):not(.disabled):active,
+.show > .btn-light.dropdown-toggle {
+  background-color: red;
+  color: white;
+  content: "";
+}
+
+/* .total {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 100%;
+  margin-left: 20px;
+} */
+
+.totalCase {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 100%;
+  margin-left: 20px;
+}
+
+#name {
+  font-weight: bold;
+}

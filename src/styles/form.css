@@ -1,0 +1,26 @@
+.create-form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    text-align: center;
+}
+
+.product-create {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.button-create {
+    display: flex;
+  justify-content: center;
+}

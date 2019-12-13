@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css?family=Asap|Muli|Raleway|Ubuntu&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  font-family: "Asap", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nav-logo {
+  align-items: center;
+  margin-top: 10px;
+}
+
+.nav-main {
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 20px;
+  position: relative;
+}
+
+.nav-admin {
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}
+
+#nav_mobile {
+  margin-right: 20px;
+  color: inherit;
+  text-decoration: none;
+}
+
+
+.nav-main a,
+.link-signout {
+  margin-right: 20px;
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-end {
+  align-items: center;
+  margin-left: auto;
+  display: flex;
+}
+
+
+.nav-end2 {
+  margin-left: 1000px;
+  justify-content: flex-end;
+  margin-left: auto;
+  display: flex;
+}
+
+.all-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.first-view {
+  margin: top 170px;
+  position: static;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 20px;
+}
+
+.firstView {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1575532226/MEG/fashion-1031469_1920_ybijwc.jpg");
+  background-size: cover;
+  height: 90vh;
+}
+
+.intro {
+  background-size: cover;
+  height: 90vh;
+}
+h1 h2 h3 h4 {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.MEG {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: rgb(238, 175, 15);
+}
+
+.lookbook {
+  padding-top: 150px;
+}
+
+.soustitre {
+  text-align: right;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+  padding-right: 140px;
+  padding-top: 270px;
+}
+
+h2 {
+  text-align: center;
+}
+h6 {
+  font-size: large;
+}
+#informations {
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+  grid-column-gap: 10%;
+  justify-content: center;
+  padding: 0;
+  width: 100%;
+}
+
+.informations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0px 0px 10px 2px rgba(58, 58, 58, 0.4);
+  overflow: hidden;
+}
+
+.infoImg {
+  max-width: 100%;
+  height: 265px;
+  overflow: hidden;
+}
+
+.infoImg img {
+  width: 100%;
+}
+
+.informations p {
+  height: 155px;
+}
+.small-info {
+  align-items: end;
+  justify-content: center;
+  padding: 14px 14px 0px 14px;
+}
+.transition {
+  margin: 20px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  background-color: #fee;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.manage-button {
+  background-color: rgb(238, 175, 15);
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  width: 250px;
+  text-align: center;
+}

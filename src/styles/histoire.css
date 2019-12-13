@@ -1,0 +1,12 @@
+.histoire {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1575530772/MEG/IMG_3105_zhsliy.jpg");
+  background-size: cover;
+  height: 90vh;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 30px;
+
+}

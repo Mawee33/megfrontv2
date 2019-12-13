@@ -1,0 +1,11 @@
+.fabrication {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1575530772/MEG/IMG_3104_upjjt4.jpg");
+  background-size: cover;
+  height: 90vh;
+  font-size: 60px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 30px;
+}

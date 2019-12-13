@@ -1,0 +1,28 @@
+.connection2 {
+  margin-top: 30px;
+  width: 400px;
+  text-align: left;
+  font-size: 40px;
+  color: rgb(238, 175, 15);
+}
+
+.contact {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1576235026/MEG/pexels-photo-1421178.jpeg_yjkvup.jpg");
+  background-size: cover;
+}
+
+.label {
+  font-size: 20px;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.input-message {
+  width: 400px;
+  height: 120px;
+  background-color: rgb(235, 218, 192);
+  text-align: center;
+  padding: 10px;
+}

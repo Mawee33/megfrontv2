@@ -1,0 +1,66 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.input {
+  width: 400px;
+  height: 40px;
+  background-color: rgb(235, 218, 192);
+  text-align: center;
+  padding: 10px;
+}
+
+.label {
+  font-size: 20px;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+}
+
+.connection {
+  margin-top: 30px;
+  width: 400px;
+  text-align: left;
+  font-size: 50px;
+  color: rgb(238, 175, 15);
+}
+
+.signin {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1576235035/MEG/thimble-1369661_960_720_bycxmt.jpg");
+  background-size: cover;
+  height: 700px;
+}
+.signup {
+  background-image: url("https://res.cloudinary.com/dfnnpxhx9/image/upload/v1575530772/MEG/IMG_3105_zhsliy.jpg");
+  background-size: cover;
+}
+
+.btn-sign {
+  width: 100px;
+  padding: 5px;
+  font-weight: bolder;
+  margin-top: 20px;
+  background-color: rgb(143, 103, 43);
+  border: solid 1px rgb(143, 103, 43);
+  color: rgb(235, 218, 192);
+}
+
+.client {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: rgb(238, 175, 15);
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link2 {
+  text-decoration: none;
+  color: rgb(238, 175, 15);}
